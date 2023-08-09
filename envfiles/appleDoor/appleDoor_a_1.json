@@ -1,0 +1,18 @@
+{
+    "agent_num": 1,
+    "starts": [
+        [
+            2,
+            0
+        ]
+    ],
+    "goals": [
+        [
+            2,
+            6
+        ]
+    ],
+    "grid_file": "appleDoor_grid.npy",
+    "lava_file": "appleDoor_lava.npy",
+    "img_file": "appleDoor_img.npy"
+}

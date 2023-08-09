@@ -1,0 +1,18 @@
+{
+    "agent_num": 1,
+    "starts": [
+        [
+            0,
+            0
+        ]
+    ],
+    "goals": [
+        [
+            9,
+            9
+        ]
+    ],
+    "grid_file": "centerSquare8x8_grid.npy",
+    "lava_file": "centerSquare8x8_lava.npy",
+    "img_file": "centerSquare8x8_img.npy"
+}

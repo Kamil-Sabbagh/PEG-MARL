@@ -1,0 +1,18 @@
+{
+    "agent_num": 1,
+    "starts": [
+        [
+            0,
+            0
+        ]
+    ],
+    "goals": [
+        [
+            9,
+            9
+        ]
+    ],
+    "grid_file": "./envfiles/empty_grid.npy",
+    "reward_file": "./envfiles/empty_reward.npy",
+    "img_file": "./envfiles/empty_img.npy"
+}
